@@ -1,2 +1,2 @@
 # georelief_h3i
-Repo for GeoRelief's H3I proposal
+Repository containing code for GeoRelief's H3I proposal for developing a geovisual analytics solution to direct Covid-19 funding resources to areas in need.
